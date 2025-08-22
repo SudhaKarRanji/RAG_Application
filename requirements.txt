@@ -1,0 +1,10 @@
+﻿streamlit==1.31.1
+langchain==0.1.7
+langchain-community==0.0.20
+openai==1.98.0
+chromadb==1.0.20
+pypdf==6.0.0
+tiktoken==0.11.0
+langchain-openai==0.0.6
+python-dotenv==1.1.1
+pdfplumber==0.10.3
